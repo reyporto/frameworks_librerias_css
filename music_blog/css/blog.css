@@ -1,0 +1,46 @@
+header {
+    padding: 15px;
+}.red-social {
+    font-size: 35px;
+}.lg-image-logo {
+    width: 20%;
+}.ion-logo-youtube {
+    color: rgb(255, 0, 0);
+}.ion-logo-facebook {
+    color: #365899;
+}.ion-logo-linkedin {
+    color: #0077B5;
+}.ion-logo-pinterest {
+    color: rgb(189, 8, 28);
+}.ion-logo-twitter {
+    color: rgb(27, 149, 224);
+}.ion-md-person {
+    font-size: 40px;
+}.input-group-text {
+    background-color: #007bff;
+    color: #fff;
+}
+
+@media screen and (min-width: 1280px) {
+    .hidden {
+        display: block;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1280px) {
+    .hidden {
+        display: block;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+    .hidden {
+        display: none;
+    }
+}
+
+@media (max-width: 768px) {
+    .hidden {
+        display: none;
+    }
+}

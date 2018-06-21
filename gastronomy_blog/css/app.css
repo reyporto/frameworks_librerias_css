@@ -1,0 +1,11 @@
+.menu .is-active > a {
+    background: #e6e6e6;
+    color: #0a0a0a;
+} a {
+    color: #0a0a0a;
+} a:hover {
+    background: #e6e6e6;
+    color: #0a0a0a;
+}.mb-15 {
+    margin-bottom: 15px;
+}
